@@ -1,0 +1,14 @@
+https://www.ksh.hu/apps/hntr.egyeb?p_lang=HU&p_sablon=LETOLTES
+https://www.ksh.hu/mikrocenzus2016/kotet_4_iskolazottsagi_adatok
+https://www.ksh.hu/mikrocenzus2016/kotet_5_gazdasagi_aktivitas
+
+https://www.ksh.hu/stadat_files/lak/hu/lak0017.html
+https://www.ksh.hu/stadat_files/ikt/hu/ikt0025.html
+
+https://www.ksh.hu/stadat_files/ele/hu/ele0017.html
+
+https://www.ksh.hu/stadat_files/nep/hu/nep0039.html
+
+https://www.ksh.hu/stadat_files/ele/hu/ele0019.html
+
+https://www.ksh.hu/mikrocenzus2016/kotet_6_haztartasok_es_csaladok_adatai
